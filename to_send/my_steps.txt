@@ -1,0 +1,13 @@
+so i scraped the data using the web_scraping.ipynb file
+that generated a csv file called review3.csv
+then i imported that file into my code which is called test.ipynb
+then that generated a file called df_with_score
+then i used the dataset with the date to perform time-series visualization.
+then i used the pre-trained LDA model to perform frequent topic modelling.
+then i imported that df_with_score into weka and generate a file called word_matrix.csv
+then i used weka to apply machine learning model on the word_matrix file.
+then i again used df_with_score file in orange software and did the visual analysis of it.
+
+Finally i went ahead and create the report doc.
+
+All the files and codes i have mentioned above are provided along with this file.
